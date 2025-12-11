@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "theme/light",
+    "theme/dark",
+    "Layout/desktop",
+    "Layout/tablet",
+    "Layout/mobile"
+  ]
+}

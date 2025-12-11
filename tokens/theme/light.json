@@ -1,0 +1,218 @@
+{
+  "status": {
+    "neutral": {
+      "background": {
+        "value": "{colors.neutral.100}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{colors.neutral.300}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.neutral.600}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "background": {
+        "value": "{colors.green.100}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{colors.green.300}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.green.600}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "background": {
+        "value": "{colors.red.100}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{colors.red.300}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.red.600}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "background": {
+        "value": "{colors.yellow.100}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{colors.yellow.300}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{colors.yellow.600}",
+        "type": "color"
+      }
+    }
+  },
+  "text": {
+    "heading-1": {
+      "color": {
+        "value": "{colors.neutral.900}",
+        "type": "color"
+      }
+    },
+    "heading-2": {
+      "color": {
+        "value": "{colors.neutral.900}",
+        "type": "color"
+      }
+    },
+    "heading-3": {
+      "color": {
+        "value": "{colors.neutral.800}",
+        "type": "color"
+      }
+    },
+    "body": {
+      "color": {
+        "value": "{colors.neutral.700}",
+        "type": "color"
+      }
+    }
+  },
+  "button": {
+    "primary": {
+      "background": {
+        "default": {
+          "value": "{colors.blue.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colors.blue.600}",
+          "type": "color"
+        }
+      },
+      "text-color": {
+        "value": "{colors.neutral.0}",
+        "type": "color"
+      },
+      "border-radius": {
+        "value": "{border-radius-medium}",
+        "type": "borderRadius"
+      }
+    },
+    "secondary": {
+      "background": {
+        "default": {
+          "value": "transparent",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colors.neutral.100}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{colors.neutral.300}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colors.neutral.400}",
+          "type": "color"
+        }
+      },
+      "text-color": {
+        "value": "{colors.neutral.900}",
+        "type": "color"
+      },
+      "border-radius": {
+        "value": "{border-radius-medium}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "card": {
+    "background": {
+      "value": "{colors.neutral.0}",
+      "type": "color"
+    },
+    "border": {
+      "value": "{colors.neutral.200}",
+      "type": "color"
+    },
+    "border-width": {
+      "value": "{border-width-thin}",
+      "type": "borderWidth"
+    },
+    "border-radius": {
+      "value": "{border-radius-large}",
+      "type": "borderRadius"
+    }
+  },
+  "input": {
+    "background": {
+      "default": {
+        "value": "{colors.neutral.0}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{colors.neutral.100}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "{colors.neutral.300}",
+        "type": "color"
+      },
+      "focus": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{colors.red.500}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "value": "{colors.neutral.900}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{colors.neutral.500}",
+      "type": "color"
+    },
+    "border-radius": {
+      "value": "{border-radius-medium}",
+      "type": "borderRadius"
+    }
+  },
+  "badge": {
+    "border-radius": {
+      "value": "{border-radius-full}",
+      "type": "borderRadius"
+    },
+    "font-size": {
+      "value": "{font-size-x-small}",
+      "type": "fontSizes"
+    }
+  },
+  "toast": {
+    "background": {
+      "value": "{colors.neutral.900}",
+      "type": "color"
+    },
+    "text": {
+      "value": "{colors.neutral.0}",
+      "type": "color"
+    },
+    "border-radius": {
+      "value": "{border-radius-medium}",
+      "type": "borderRadius"
+    }
+  }
+}

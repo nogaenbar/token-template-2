@@ -1,0 +1,52 @@
+[
+  {
+    "id": "9bc61b18ffbb7966059abf9b20133d9613a7de2c",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "theme/light": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "6f613ad45dfcbe965c9c3369b6faec0f8c487c2f",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "theme/dark": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "7606ff70d38a52382d7cd03232182e4f5033a136",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "Layout/desktop": "enabled"
+    },
+    "group": "Layout"
+  },
+  {
+    "id": "a988c151ac70c22b9941dbe636ad4c69b5f2dcc2",
+    "name": "Tablet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "Layout/tablet": "enabled"
+    },
+    "group": "Layout"
+  },
+  {
+    "id": "b7575cece056063c879963f6f20e4b4cde9c677c",
+    "name": "Mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "Layout/mobile": "enabled"
+    },
+    "group": "Layout"
+  }
+]
